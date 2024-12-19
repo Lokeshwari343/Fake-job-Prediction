@@ -30,9 +30,4 @@ Confusion Matrix:
 
 In the Second approach, Decision tree classifier was used which classifies inputs by segmenting the input space into regions. <br>
 Classification Accuracy: 0.8173076923076923 <br>
-Confusion Matrix:
-<p align="center">
-  <img width="460" height="300" src="Images/image6.PNG">
-</p>
 
-"# Fake-job-Prediction" 
